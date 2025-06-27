@@ -34,7 +34,6 @@ mutex-and-money/
 ├── requirements.txt        # Python dependencies (standard lib only)
 ├── README.md               # You’re reading it
 ├── .gitignore              # Ignores .pyc, __pycache__, etc.
-└── screenshots/            # Add demo screenshot or gif
 ```
 
 ---
