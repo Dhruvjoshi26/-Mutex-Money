@@ -3,6 +3,9 @@
 ### 🚀 Built using Python | Threading | Mutex (Lock)
 
 ---
+## 📸 Demo
+
+![mutex-demo](https://github.com/Dhruvjoshi26/-Mutex-Money/blob/main/Mutex%20Money.png?raw=true)
 
 > 🎥 *Simulates multiple concurrent deposits, withdrawals, and transfers with real-time balance updates & synchronization using mutex.*
 
